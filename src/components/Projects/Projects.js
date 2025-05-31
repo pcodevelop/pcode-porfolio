@@ -13,21 +13,21 @@ const Projects = () => {
         title: 'Modern E-commerce Platform',
         description: 'A full-featured e-commerce website built with React, Node.js, and MongoDB. Features include user authentication, product management, shopping cart, and secure payments.',
         link: 'https://example.com/ecommerce',
-        image: './images/projects/ecommerce.jpg',
+        image: 'https://via.placeholder.com/400x300?text=E-commerce',
         technologies: ['React', 'Node.js', 'MongoDB', 'Stripe']
       },
       {
         title: 'Portfolio Website',
         description: 'A responsive portfolio website showcasing creative work and projects. Built with modern web technologies and animations.',
         link: 'https://example.com/portfolio',
-        image: './images/projects/portfolio.jpg',
+        image: 'https://via.placeholder.com/400x300?text=Portfolio',
         technologies: ['React', 'Framer Motion', 'CSS3']
       },
       {
         title: 'Real Estate Platform',
         description: 'A comprehensive real estate website with property listings, search functionality, and virtual tours.',
         link: 'https://example.com/realestate',
-        image: './images/projects/real-estate.jpg',
+        image: 'https://via.placeholder.com/400x300?text=Real+Estate',
         technologies: ['Next.js', 'PostgreSQL', 'Google Maps API']
       }
     ],
@@ -35,19 +35,19 @@ const Projects = () => {
       {
         title: 'Inventory Management System',
         description: 'Desktop application for managing inventory, tracking sales, and generating reports. Built for small to medium-sized businesses.',
-        image: './images/projects/inventory.jpg',
+        image: 'https://via.placeholder.com/400x300?text=Inventory',
         technologies: ['Python', 'Qt', 'SQLite']
       },
       {
         title: 'Video Editor Pro',
         description: 'Professional video editing software with advanced features like timeline editing, effects, and format conversion.',
-        image: './images/projects/video-editor.jpg',
+        image: 'https://via.placeholder.com/400x300?text=Video+Editor',
         technologies: ['C++', 'FFmpeg', 'OpenGL']
       },
       {
         title: 'Data Analysis Tool',
         description: 'Desktop software for analyzing and visualizing large datasets with custom reporting features.',
-        image: './images/projects/data-analysis.jpg',
+        image: 'https://via.placeholder.com/400x300?text=Data+Analysis',
         technologies: ['Python', 'Pandas', 'Matplotlib']
       }
     ],
@@ -55,19 +55,19 @@ const Projects = () => {
       {
         title: 'Fitness Tracker Pro',
         description: 'Mobile app for tracking workouts, nutrition, and health metrics. Includes social features and achievement system.',
-        image: './images/projects/fitness.jpg',
+        image: 'https://via.placeholder.com/400x300?text=Fitness',
         technologies: ['React Native', 'Firebase', 'HealthKit']
       },
       {
         title: 'Budget Master',
         description: 'Personal finance management app with expense tracking, budgeting, and financial insights.',
-        image: './images/projects/budget.jpg',
+        image: 'https://via.placeholder.com/400x300?text=Budget',
         technologies: ['Flutter', 'Firebase', 'Charts']
       },
       {
         title: 'Recipe Finder',
         description: 'Mobile app for discovering and saving recipes, with meal planning and shopping list features.',
-        image: './images/projects/recipe.jpg',
+        image: 'https://via.placeholder.com/400x300?text=Recipe',
         technologies: ['React Native', 'Redux', 'API Integration']
       }
     ]
