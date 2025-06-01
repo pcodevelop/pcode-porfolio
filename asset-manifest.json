@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/pcode-porfolio/static/css/main.e8b423b7.css",
+    "main.js": "/pcode-porfolio/static/js/main.3d58f7b2.js",
+    "static/js/488.26faac7b.chunk.js": "/pcode-porfolio/static/js/488.26faac7b.chunk.js",
+    "index.html": "/pcode-porfolio/index.html",
+    "main.e8b423b7.css.map": "/pcode-porfolio/static/css/main.e8b423b7.css.map",
+    "main.3d58f7b2.js.map": "/pcode-porfolio/static/js/main.3d58f7b2.js.map",
+    "488.26faac7b.chunk.js.map": "/pcode-porfolio/static/js/488.26faac7b.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e8b423b7.css",
+    "static/js/main.3d58f7b2.js"
+  ]
+}
